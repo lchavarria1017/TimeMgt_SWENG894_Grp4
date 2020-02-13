@@ -1,0 +1,38 @@
+Git Hub Workflow
+
+Guidelines for Git Hub Repository
+
+Guide 1:
+Team members are responsible to maintain their own branches locally and ensure any uploads (pushes) to their branch is made when they
+are ready to upload their files.
+
+
+Guide 2:
+Team members must provide at a minimum a header on their file for identification of the file before requesting a pull to the master.
+  The header must contain at a minimum the following:
+    1. Author(s) Name:
+    2. Created Date:
+    3. Use Case Implementation:
+    
+Guide 3:
+Team members will ensure that they upload their files to their individual branches only. 
+
+
+Guide 4:
+Team members will request a PULL to the master branch once they have tested and ran their code locally.
+
+
+Guide 5:
+Team membders must provide instuctions with their PULL on how to run their branch before adding it to the master. 
+  1. Tools used
+  2. GIT or other tool Commands required
+  3. Specific download of software 
+  4. Any details needed in order to run the application
+  
+Guide 6:
+Team members must perform a static analysis on GIT with the assistance of another reviewer before requesting a PULL to the MASTER.
+
+
+Resolution: 
+Once the GIT Manager has validated that the code is functioning and that all prior conditions have been met. The GIT master will merge
+the team members branch to the MASTER. 
